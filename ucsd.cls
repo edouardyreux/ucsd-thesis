@@ -489,7 +489,7 @@
     \bigskip \medskip
     {\@field}
     \ifx\@specialization\@isnotdefined \else%
-         (with a specialization in {\@specialization})\fi
+         with a specialization in {\@specialization}\fi
     \par
     \bigskip \medskip
     by \par
